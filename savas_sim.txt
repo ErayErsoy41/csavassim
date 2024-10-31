@@ -1,0 +1,3 @@
+Round 1
+Remaining humans: 0, Remaining orcs: 0
+Orcs win!
