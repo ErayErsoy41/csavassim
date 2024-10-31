@@ -1,7 +1,0 @@
-Round 1
-Humans total attack: 1672600.88, Orcs total attack: 1672600.88
-Humans total defense: 1186676.50, Orcs total defense: 1186676.50
-Damage: Humans -> Orcs: 485924.31, Orcs -> Humans: 485924.31
-Remaining humans: 0, Remaining orcs: 0
-
-Orcs win!
